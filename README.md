@@ -10,3 +10,6 @@ The bar chart clearly displayed the sum of sales by years in the West Region, al
 The text table provided a detailed breakdown of region-wise and category-wise yearly sales, including the totals. This information helped us assess the sales performance in different regions and categories, providing a comprehensive overview of the company's sales distribution.
 
 The line chart allowed us to forecast monthly sales and profits, providing a visual representation of the expected trends. This information is crucial for future planning and decision-making.
+
+The scatter plot visually depicted the relationship between sales and profits, enabling us to identify any correlations or trends between the two variables. This insight can aid in identifying areas of improvement or potential opportunities for maximizing profitability.
+
