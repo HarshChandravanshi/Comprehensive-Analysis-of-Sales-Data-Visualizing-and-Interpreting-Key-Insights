@@ -16,3 +16,5 @@ The scatter plot visually depicted the relationship between sales and profits, e
 The heat map offered a comprehensive view of the yearly sales and profit by region and category. This visualization provided a clear understanding of the company's performance across different regions and categories, highlighting areas of strength or areas that require attention.
 
 The waterfall chart illustrated the sales by sub-category, enabling us to identify the individual contributions and impacts of each sub-category on overall sales.
+
+The tree map provided an interactive and intuitive visualization of sub-category-wise sales and profits, giving a clear understanding of the relative sizes and performances of different sub-categories.
