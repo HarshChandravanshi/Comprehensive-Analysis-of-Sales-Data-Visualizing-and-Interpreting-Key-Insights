@@ -4,3 +4,5 @@ This case study explores the analysis of sales data to gain valuable insights in
 Technology - IBM Cognos
 # Sales Data Analysis: Key Visualizations and Insights
 The analysis of sales data for the company provided valuable insights into various aspects of the business. By utilizing different visualizations and filters, we were able to gain a comprehensive understanding of the company's performance in the West Region over the years.
+
+The bar chart clearly displayed the sum of sales by years in the West Region, allowing us to identify any trends or patterns in sales growth or decline.
