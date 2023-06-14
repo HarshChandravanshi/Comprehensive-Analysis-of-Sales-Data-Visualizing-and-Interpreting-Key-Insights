@@ -8,3 +8,5 @@ The analysis of sales data for the company provided valuable insights into vario
 The bar chart clearly displayed the sum of sales by years in the West Region, allowing us to identify any trends or patterns in sales growth or decline.
 
 The text table provided a detailed breakdown of region-wise and category-wise yearly sales, including the totals. This information helped us assess the sales performance in different regions and categories, providing a comprehensive overview of the company's sales distribution.
+
+The line chart allowed us to forecast monthly sales and profits, providing a visual representation of the expected trends. This information is crucial for future planning and decision-making.
