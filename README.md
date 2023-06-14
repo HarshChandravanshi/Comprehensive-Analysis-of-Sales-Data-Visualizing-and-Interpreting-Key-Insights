@@ -22,3 +22,5 @@ The tree map provided an interactive and intuitive visualization of sub-category
 The pie chart showcased the sales distribution by sub-category, allowing for easy comparison and identification of the most significant contributors to overall sales.
 
 The word cloud visual presented the sales vs profits of states by segment colors, using IBM Cognos. This visualization provided a unique perspective on the sales and profit distribution, highlighting the importance of each state and segment in the company's overall performance.
+
+The analysis of the sales data using various visualizations and filters provided valuable insights and actionable information for the company. This comprehensive understanding of sales performance by region, category, sub-category, and other variables will enable the company to make informed decisions, identify growth opportunities, and optimize its strategies for better sales and profitability.
