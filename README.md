@@ -23,6 +23,9 @@ The line chart allowed us to forecast monthly sales and profits, providing a vis
 
 The scatter plot visually depicted the relationship between sales and profits, enabling us to identify any correlations or trends between the two variables. This insight can aid in identifying areas of improvement or potential opportunities for maximizing profitability.
 
+<img width="650" alt="image" src="https://github.com/HarshChandravanshi/Comprehensive-Analysis-of-Sales-Data-Visualizing-and-Interpreting-Key-Insights/assets/90752233/541abb61-7f78-42a2-ba41-d0e189d8231b">
+
+
 The heat map offered a comprehensive view of the yearly sales and profit by region and category. This visualization provided a clear understanding of the company's performance across different regions and categories, highlighting areas of strength or areas that require attention.
 
 The waterfall chart illustrated the sales by sub-category, enabling us to identify the individual contributions and impacts of each sub-category on overall sales.
