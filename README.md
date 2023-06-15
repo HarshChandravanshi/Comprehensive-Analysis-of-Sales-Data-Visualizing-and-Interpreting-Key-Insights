@@ -7,6 +7,8 @@ Technology - IBM Cognos
 The analysis of sales data for the company provided valuable insights into various aspects of the business. By utilizing different visualizations and filters, we were able to gain a comprehensive understanding of the company's performance in the West Region over the years.
 
 The bar chart clearly displayed the sum of sales by years in the West Region, allowing us to identify any trends or patterns in sales growth or decline.
+<img width="645" alt="image" src="https://github.com/HarshChandravanshi/Comprehensive-Analysis-of-Sales-Data-Visualizing-and-Interpreting-Key-Insights/assets/90752233/437e8f01-d29a-4ff1-b016-ca018efa3e05">
+
 
 The text table provided a detailed breakdown of region-wise and category-wise yearly sales, including the totals. This information helped us assess the sales performance in different regions and categories, providing a comprehensive overview of the company's sales distribution.
 
