@@ -33,6 +33,9 @@ The heat map offered a comprehensive view of the yearly sales and profit by regi
 
 The waterfall chart illustrated the sales by sub-category, enabling us to identify the individual contributions and impacts of each sub-category on overall sales.
 
+<img width="645" alt="image" src="https://github.com/HarshChandravanshi/Comprehensive-Analysis-of-Sales-Data-Visualizing-and-Interpreting-Key-Insights/assets/90752233/b69352c7-65fc-4d9e-b703-b9820f4c51eb">
+
+
 The tree map provided an interactive and intuitive visualization of sub-category-wise sales and profits, giving a clear understanding of the relative sizes and performances of different sub-categories.
 
 The pie chart showcased the sales distribution by sub-category, allowing for easy comparison and identification of the most significant contributors to overall sales.
