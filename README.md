@@ -38,6 +38,9 @@ The waterfall chart illustrated the sales by sub-category, enabling us to identi
 
 The tree map provided an interactive and intuitive visualization of sub-category-wise sales and profits, giving a clear understanding of the relative sizes and performances of different sub-categories.
 
+<img width="644" alt="image" src="https://github.com/HarshChandravanshi/Comprehensive-Analysis-of-Sales-Data-Visualizing-and-Interpreting-Key-Insights/assets/90752233/b27c632c-c55c-4d6c-a9a7-414055d9210f">
+
+
 The pie chart showcased the sales distribution by sub-category, allowing for easy comparison and identification of the most significant contributors to overall sales.
 
 The word cloud visual presented the sales vs profits of states by segment colors, using IBM Cognos. This visualization provided a unique perspective on the sales and profit distribution, highlighting the importance of each state and segment in the company's overall performance.
