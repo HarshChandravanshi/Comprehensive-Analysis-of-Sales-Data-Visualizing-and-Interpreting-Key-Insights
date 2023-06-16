@@ -48,4 +48,7 @@ The pie chart showcased the sales distribution by sub-category, allowing for eas
 
 The word cloud visual presented the sales vs profits of states by segment colors, using IBM Cognos. This visualization provided a unique perspective on the sales and profit distribution, highlighting the importance of each state and segment in the company's overall performance.
 
+<img width="638" alt="image" src="https://github.com/HarshChandravanshi/Comprehensive-Analysis-of-Sales-Data-Visualizing-and-Interpreting-Key-Insights/assets/90752233/9099675a-8633-4017-a717-74829739e282">
+
+
 The analysis of the sales data using various visualizations and filters provided valuable insights and actionable information for the company. This comprehensive understanding of sales performance by region, category, sub-category, and other variables will enable the company to make informed decisions, identify growth opportunities, and optimize its strategies for better sales and profitability.
